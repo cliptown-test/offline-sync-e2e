@@ -19,7 +19,7 @@ Source organization: `cliptown`
 | Source | Commit | Branch observed |
 |---|---:|---|
 | `cliptown/cliptown-flutter` | `e1c88fe94467db01859faf4ad88ca958045d3d74` | `main` |
-| `opto-sync/opto-sync-clients` | `068414c8ff7d4262d0a395959b5209d5908f0fcc` | `main` |
+| `opto-sync/opto-sync-clients` | `8799f71699947ce90912888213b6f035f51e67c4` | `main` |
 
 ## Dependency lanes
 
